@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="api.BodySegment"/>
+    <fullyQualifiedTypeName name="javax.swing.text.Position"/>
+    <fullyQualifiedTypeName name="COMS227_HW3_S24_skeleton2.COMS227_HW3_S24_skeleton.src.api.BodySegment"/>
+    <fullyQualifiedTypeName name="COMS227_HW3_S24_skeleton2.COMS227_HW3_S24_skeleton.src.hw3.Lizard"/>
+    <fullyQualifiedTypeName name="COMS227_HW3_S24_skeleton2.COMS227_HW3_S24_skeleton.src.api.Direction"/>
+    <fullyQualifiedTypeName name="COMS227_HW3_S24_skeleton2.COMS227_HW3_S24_skeleton.src.hw3.LizardGame"/>
+    <fullyQualifiedTypeName name="COMS227_HW3_S24_skeleton2.COMS227_HW3_S24_skeleton.src.ui.GameConsole"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="plotter.Plotter"/>
+    <fullyQualifiedTypeName name="COMS227_HW3_S24_skeleton2.COMS227_HW3_S24_skeleton.src.hw3.GameFileUtil"/>
+    <fullyQualifiedTypeName name="COMS227_HW3_S24_skeleton2.COMS227_HW3_S24_skeleton.src.api.ShowDialogListener"/>
+    <fullyQualifiedTypeName name="COMS227_HW3_S24_skeleton2.COMS227_HW3_S24_skeleton.src.api.ScoreUpdateListener"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="demo.GameBase"/>
+    <fullyQualifiedTypeName name="java.awt.Rectangle"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="api.AbstractElement"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>
